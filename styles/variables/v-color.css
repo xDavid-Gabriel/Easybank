@@ -1,0 +1,24 @@
+html {
+  --primary: linear-gradient(hsl(136, 65%, 51%), hsl(192, 70%, 51%));
+
+  --secondary-2: hsl(233, 26%, 24%);
+  --secondary-1: hsl(233, 8%, 62%);
+
+  --secondary: var(--secondary-2);
+  --secondary-light: var(--secondary-1);
+
+  /* --link: var(--secondary-8);
+  --link-hover: var(--secondary-5); */
+}
+
+.h {
+  color: hsl(233, 26%, 24%);
+  color: hsl(136, 65%, 51%);
+  color: hsl(192, 70%, 51%);
+
+  color: hsl(233, 8%, 62%);
+  color: hsl(220, 16%, 96%);
+  color: hsl(0, 0%, 98%);
+  color: hsl(0, 0%, 100%);
+  background: linear-gradient();
+}
